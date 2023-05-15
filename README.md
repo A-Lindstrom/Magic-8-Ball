@@ -1,10 +1,4 @@
-# Magic8Ball 🔮
+Magic8Ball 🔮
 
-Follow the instructions in the .java file to create a Java program to predict a user's future 🔮
-
-## Variations and Enhancements
-
-* Change magic 8-ball to magic obelsik (or anything else creative)
-* Keyword/name recognition
-* Memory of past questions
-* Expanding to handle more than yes/non questions
+Ask the magic 8 ball a yes or no question and see what the future holds! 
+It repeats as long as you'd like with a selection of different answers, and your instructions do not need to be case-sensitive.
